@@ -1,0 +1,74 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+.venv/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Decompiled files (generated, not source code)
+*_Decompiled.py
+*.pyc
+
+# Models (too large for GitHub)
+*.pth
+*.pkl
+*.h5
+*.onnx
+*.weights
+*.pt
+
+# Videos and large files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.flv
+*.wmv
+dataset/
+Video/
+
+# Outputs
+runs/
+yolo_output/
+output.mp4
+output/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.code-workspace
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+*.log
+logs/
+
+# CSV outputs (keep sample)
+# submission.csv
+# rl_agent_results.csv
