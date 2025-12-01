@@ -5,7 +5,7 @@
 [![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-00ADD8.svg)](https://github.com/ultralytics/ultralytics)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
 
-> **Capstone Project: Reinforcement Learning with Agentic AI & AI Ethics**  
+> **Capstone Project: Reinforcement Learning with Agentic AI**  
 > *Department of Computer Science & Engineering*
 
 ---
